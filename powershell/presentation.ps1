@@ -10,7 +10,7 @@ break
   Slack (Summit): Fred
 
   Projects: dbatools, dbachecks, psframework, psutil, psmoduledevelopment
-  Website: http://psframework.org
+  Website: http://psframework.org | https://allthingspowershell.blogspot.de
   Repository: https://github.com/FriedrichWeinmann/P2018-PowerShellSummit-ThePipeline
 #>
 function Show-Pipeline
