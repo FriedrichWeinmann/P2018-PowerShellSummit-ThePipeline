@@ -1,6 +1,18 @@
 # failsafe
 break
 
+<#
+    About me:
+  Twitter: @FredWeinmann
+  Github: FriedrichWeinmann
+  Slack (PowerShell): Fred
+  Slack (SQL Community): Fred
+  Slack (Summit): Fred
+
+  Projects: dbatools, dbachecks, psframework, psutil, psmoduledevelopment
+  Website: http://psframework.org
+  Repository: https://github.com/FriedrichWeinmann/P2018-PowerShellSummit-ThePipeline
+#>
 function Show-Pipeline
 {
 <#
