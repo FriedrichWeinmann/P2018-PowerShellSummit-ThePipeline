@@ -103,7 +103,7 @@ function Show-Pipeline
 			}
             else { $item }
             
-            if ($ShowEnd) { Write-PSFMessage -Level Host -Message "[<c='yellow'>Process</c>][<c='$($color[$name])'>$Name</c>] Killing puppies and finihing processing $item$($waiting)" }
+            if ($ShowEnd) { Write-PSFMessage -Level Host -Message "[<c='yellow'>Process</c>][<c='$($color[$name])'>$Name</c>] Killing puppies and finishing processing $item$($waiting)" }
             #endregion Process
 		}
 	}
